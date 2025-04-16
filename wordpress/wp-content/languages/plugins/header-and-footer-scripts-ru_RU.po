@@ -1,0 +1,110 @@
+# Translation of Plugins - Header and Footer Scripts - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Header and Footer Scripts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-11 18:21:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Header and Footer Scripts - Stable (latest release)\n"
+
+#: inc/options.php:32
+msgid "The following script, if any, will be inserted before &lt;/body&gt; tag using wp_footer hook."
+msgstr "Следующий скрипт, если он есть, будет вставлен перед тегом &lt;/body&gt; тег с помощью хука wp_footer."
+
+#: inc/options.php:29 inc/options.php:36
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/options.php:28 inc/options.php:35
+msgid "Priority"
+msgstr "Приоритет"
+
+#: inc/options.php:25
+msgid "The following script, if any, will be inserted into the &lt;head&gt; section using wp_head hook."
+msgstr "Следующий скрипт, если он есть, будет вставлен в раздел &lt;head&gt; раздел с использованием хука wp_head."
+
+#: inc/meta.php:13
+msgid "The script in the following textbox will be inserted to the &lt;head&gt; section"
+msgstr "Сценарий в следующем текстовом поле будет вставлен в раздел &lt;head&gt;"
+
+#. Description of the plugin
+#: shfs.php
+msgid "Essential WordPress plugin for almost every website to insert codes like Javascript and CSS. Inserting script to your wp_head and wp_footer made easy."
+msgstr "Незаменимый плагин WordPress почти для каждого сайта для вставки кодов Javascript и CSS. Вставка скрипта в wp_head и wp_footer стала проще."
+
+#: shfs.php:63
+msgid "Insert Script to &lt;head&gt;"
+msgstr "Вставьте скрипт в &lt;head&gt;"
+
+#: inc/sidebar.php:41
+msgid "Join Digital Liberation"
+msgstr "Присоединяйтесь к Digital Liberation"
+
+#: inc/sidebar.php:40
+msgid "We are small WordPress community who welcomes you to join us. Here you will find and share more plugins and themes or even ideas. Ideas are not limited to WordPress. It could be vague or liberal. This is why we are \"Digital Liberation .ORG"
+msgstr "Мы небольшое сообщество WordPress, которое приглашает вас присоединиться к нам. Здесь вы найдете и поделитесь другими плагинами и темами или даже идеями. Идеи не ограничиваются WordPress. Он может быть расплывчатым или либеральным. Вот почему мы «Digital Liberation .ORG"
+
+#: inc/sidebar.php:38
+msgid "Join Our Community"
+msgstr "Присоединяйтесь к нашему сообществу"
+
+#: inc/sidebar.php:32
+msgid "Find this plugin useful rate it 5 stars and leave a nice little comment at wordpress.org. I would really appreciate that."
+msgstr "Если вы нашли этот плагин полезным, оцените его 5 звездами и оставьте небольшой комментарий на wordpress.org. Я буду очень признателен за это."
+
+#: inc/sidebar.php:30 inc/sidebar.php:33
+msgid "Rate 5 Stars"
+msgstr "Оценка 5 звезд"
+
+#: inc/sidebar.php:25
+msgid "Contribute"
+msgstr "Сделать вклад"
+
+#: inc/sidebar.php:24
+msgid "Help us to make this plugin even better. Contributions not necessarily be monetary. Please follow the link to know more and contribute."
+msgstr "Помогите нам сделать этот плагин еще лучше. Взносы не обязательно должны быть денежными. Пожалуйста, перейдите по ссылке, чтобы узнать больше и внести свой вклад."
+
+#: inc/sidebar.php:22
+msgid "Contribute or Donate!"
+msgstr "Внесите свой вклад или пожертвуйте!"
+
+#: inc/sidebar.php:17
+msgid "Explore Docs and Support"
+msgstr "Изучите документы и поддержку"
+
+#: inc/sidebar.php:16
+msgid "Read plugin documentation for clarification or how to use it. OR just ask your query."
+msgstr "Изучите документацию плагина, чтобы получить разъяснения или узнать, как его использовать. Или просто задайте свой вопрос."
+
+#: inc/sidebar.php:14
+msgid "Need Help?"
+msgstr "Нужна помощь?"
+
+#: inc/options.php:39
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: inc/options.php:31
+msgid "Scripts in footer:"
+msgstr "Скрипт в footer:"
+
+#: inc/options.php:24
+msgid "Scripts in header:"
+msgstr "Скрипт в header:"
+
+#: inc/options.php:12
+msgid "Read Tutorial"
+msgstr "Прочитать руководство"
+
+#: inc/options.php:12
+msgid "Header and Footer Scripts - Options"
+msgstr "Header and Footer Scripts - Параметры"
+
+#. Plugin Name of the plugin
+#: shfs.php shfs.php:71
+msgid "Header and Footer Scripts"
+msgstr "Header and Footer Scripts"

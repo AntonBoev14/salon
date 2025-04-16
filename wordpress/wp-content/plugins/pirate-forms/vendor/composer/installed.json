@@ -1,0 +1,51 @@
+{
+    "packages": [
+        {
+            "name": "codeinwp/themeisle-sdk",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Codeinwp/themeisle-sdk.git",
+                "reference": "f15f12fc6a2af683b4fe9fdc49a39f99785e31f9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Codeinwp/themeisle-sdk/zipball/f15f12fc6a2af683b4fe9fdc49a39f99785e31f9",
+                "reference": "f15f12fc6a2af683b4fe9fdc49a39f99785e31f9",
+                "shasum": ""
+            },
+            "require-dev": {
+                "codeinwp/phpcs-ruleset": "dev-main",
+                "yoast/phpunit-polyfills": "^2.0"
+            },
+            "time": "2024-12-29T09:33:27+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "ThemeIsle team",
+                    "email": "friends@themeisle.com",
+                    "homepage": "https://themeisle.com"
+                }
+            ],
+            "description": "ThemeIsle SDK",
+            "homepage": "https://github.com/Codeinwp/themeisle-sdk",
+            "keywords": [
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/Codeinwp/themeisle-sdk/issues",
+                "source": "https://github.com/Codeinwp/themeisle-sdk/tree/master"
+            },
+            "install-path": "../codeinwp/themeisle-sdk"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
